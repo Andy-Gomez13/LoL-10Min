@@ -6,4 +6,9 @@ Additionally, you will find the code I used to clean the data as well as how I p
 
 Below are a couple of the graphs I used to help display the data along with a short video presentation of my findings.
 
+![image](https://user-images.githubusercontent.com/85202194/130367460-d90e987c-d090-49ec-8a49-89d02d6bfd39.png)
+
+![image](https://user-images.githubusercontent.com/85202194/130367465-2997f6c4-95e0-4887-a543-bcbdd6e439f3.png)
+
+
 Thank you for your time.
